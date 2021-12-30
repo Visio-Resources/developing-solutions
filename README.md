@@ -6,8 +6,9 @@ Available technologies and which one to chose
 - Templates, Stencils and macros
 - Smartshapes
 
-Where to start...
-Developing
-Testing
-Deploying
-Maintaining
+
+- Where to start...
+- Developing
+- Testing
+- Deploying
+- Maintaining

@@ -1,6 +1,13 @@
 This is all about developing Visio solutions.
 
 - Available technologies and which one to chose
+  - Add-Ons    
+  [Save As addon for Visio VBA](https://www.paulherber.co.uk/free-visio-addons/#saveas) by [Paul Herber](https://github.com/paulherber)     
+  *Addon to allow Visio VBA to do a "Save As"
+  There is no built-in dialog in Visio VBA to do a Save As. So, I have created an addon that can do this.
+Download the .zip file below, unzip it and run the .msi file contained within. This will install the addon in Visio.
+Now download the test.zip file below and unzip it into your My Shapes folder. Open this file and look at the macro "SaveAs".
+Edit the contents of the string "SaveAddress" to change the default location and name where the file is saved to.*    
   - Plug-Ins    
   [VBA Import/Export Addin](https://unmanagedvisio.com/products/vba-importexport-addin/) by [Nikolay Belykh](https://github.com/nbelyh)     
   *This free Visio add-in helps to import and export VBA code from Visio to a folder.

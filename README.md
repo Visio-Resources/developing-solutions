@@ -24,7 +24,11 @@ Edit the contents of the string "SaveAddress" to change the default location and
 
 
 - Where to start...
-- Developing
+- Developing    
+  - [Extended Visio Addin Project](https://github.com/nbelyh/VisioPanelAddinVSTO#extended-visio-addin-project) by [Nikolay Belykh](https://github.com/nbelyh)     
+  *This extension contains a project template to create a extneded Microsoft Visio Addin based on Visual Tools for Office or vanilla COM Shared AddIn in C# and VB.NET. [Release 1.2.2](https://github.com/nbelyh/VisioPanelAddinVSTO/releases/download/1.2.2/VisioPanelVSTOAddinVSIX_2019.vsix)*    
+  - [IdMsoAutocomplete](https://github.com/nbelyh/IdMsoAutocomplete#idmsoautocomplete) by [Nikolay Belykh](https://github.com/nbelyh)     
+  *The extension provides autocomplete for CustomUI for office ribbon (means, auto-complete for the built-in item identifiers, like idMso, insertBeforeMso, insertAfterMso and imageMso). [Release 1.0.3](https://github.com/nbelyh/IdMsoAutocomplete/releases/download/1.0.3/IdMsoAutocomplete.2019.vsix)*
 - Testing
 - Deploying
 - Maintaining

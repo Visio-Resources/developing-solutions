@@ -20,8 +20,17 @@ Edit the contents of the string "SaveAddress" to change the default location and
 [Visio BackSync](https://unmanagedvisio.com/products/visio-back-sync/) by [Nikolay Belykh](https://github.com/nbelyh)     
 *This add-in uses Visio data-binding infrastructure, and allows you to update the data in the external source from Visio (back-synchronize). There are limitations of course, but basically it supports any type of data source which support update (including Excel files, databases, and SharePoint lists).*
     
-## Templates, Stencils and macros    
-[Stencils](https://github.com/Visio-Resources/Shapes-n-stencils)
+## Templates, Stencils and macros   
+[Featured Visio templates and diagrams](https://support.microsoft.com/en-us/office/featured-visio-templates-and-diagrams-27d4274b-5fc2-4f5c-8190-35ff1db34aa5)    
+*There you can find additional templates from MS Corp and MS partners*    
+[3rd-party Visio stencils](https://github.com/Visio-Resources/Shapes-n-stencils)     
+*A collection of links to 3rd-party Visio stencils and add-ons collected by [Paul Herber]()*   
+[Various Domotic Stencils](https://github.com/rrobinet/Visio-Stencils) by [rrobinet](https://github.com/rrobinet/)   
+*There you can find dosens stencils: Domotic and IOT devices*    
+[Collections of hyperlinks](https://github.com/bhdicaire/visioStencils/blob/main/stencils.md) by [Benoît H. Dicaire](https://github.com/bhdicaire/)    
+*To keep your visio stencils as up-to-date as possible, look for up-to-date versions on vendor websites.*  
+ <!-- <a href="https://github.com/lm0ser/Visio-Stencils">Back-up with a lot IT-stencils</a> by <a href="https://github.com/lm0ser/">Lucas MOSER</a><br>
+ <i>A Collection of various Visio stencils which Lucas has collected from various vendors in one place.</i>-->
 ## Smartshapes    
 ## Where to start... 
 [Microsoft Visio 2010 Developer Training](https://www.microsoft.com/en-my/download/details.aspx?id=27198)   
